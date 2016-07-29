@@ -1,7 +1,7 @@
 name: iamhybrid
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.9459989629685879
+typography_spectrum: 0.81433
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#c9c7b6'
     - '#3e3c35'
     - '#0c0e0f'
-  brandStrength: 0.625
+  brandStrength: 0.25
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 0.25
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
