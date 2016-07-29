@@ -7,6 +7,13 @@
         <lastBuildDate>Fri, 29 Jul 2016 09:02:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iamhybrid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Michael Ploj]]></title>
+            <description><![CDATA[<article><h1>Michael Ploj</h1><p>Advertising Archive. Commercials by Media.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7651a11c89b17e5502fa5c2473eb951d/noop.jpg?input=https%3A%2F%2Ffiles1.coloribus.com%2Ffiles%2Fadsarchive%2Fpart_1724%2F17246755%2Fjung-von-matt-lorem-recruitment-150-37435.jpg"></article>]]></description>
+            <link>https://www.coloribus.com/creatives/Michael+Ploj-44284805/</link>
+            <guid isPermaLink="false">de9a57d7-00f7-4018-acfc-f5e73dc40782</guid>
+            <pubDate>Fri, 29 Jul 2016 09:02:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Die Zukunft des Reisens]]></title>
             <description><![CDATA[<article><h1>Die Zukunft des Reisens</h1><p>ONEtoONE ist der Navigator für den Markt neuer Marketing-Lösungen und hilft den Überblick zu behalten. Innerhalb der Ressorts Channels, Markets, Technology, Services und Community erhalten die aktuellen Marketing-Themen der Branche ihren Raum.</p></article>]]></description>
             <link>http://onetoone.de/de/fischers-archiv/kampagne/die-zukunft-des-reisens</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/iamhybrid/96427613-188c-435f-852b-10811446cca1/index.html</link>
             <guid isPermaLink="false">96427613-188c-435f-852b-10811446cca1</guid>
             <pubDate>Tue, 19 Apr 2016 07:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30fbf790-2b4c-44a8-9841-c029869dd10f.gif">]]></description>
-            <link>https://thegrid.ai/iamhybrid/c82ba9d0-0620-49ee-98ee-1681d55b9131/index.html</link>
-            <guid isPermaLink="false">c82ba9d0-0620-49ee-98ee-1681d55b9131</guid>
-            <pubDate>Tue, 19 Apr 2016 07:07:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
