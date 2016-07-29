@@ -4,8 +4,15 @@
         <description><![CDATA[iamhybrid]]></description>
         <link>https://thegrid.ai/iamhybrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jul 2016 09:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2016 09:02:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iamhybrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Michael Ploj]]></title>
+            <description><![CDATA[<article><h1>Michael Ploj</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6b84110e63509fbf0488928aaab6500e/noop.jpg?input=http%3A%2F%2Fadsoftheworld.com%2Fsites%2Fdefault%2Ffiles%2Fbeanadimage%2Fcliofreedom.jpg"></article>]]></description>
+            <link>http://adsoftheworld.com/creative/michael_ploj</link>
+            <guid isPermaLink="false">1310dfb2-4e72-4ed3-b2dd-26f44c75485e</guid>
+            <pubDate>Fri, 29 Jul 2016 09:02:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Interaktive Trends 2006/2007 - Jahrbuch Deutscher Multimedia Award]]></title>
             <description><![CDATA[<article><h1>Interaktive Trends 2006/2007 - Jahrbuch Deutscher Multimedia Award</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/15cae4719c62a147abe22863cff3f61c/noop?input=https%3A%2F%2Fbooks.google.de%2Fbooks%2Fcontent%3Fid%3DMPd3X3Ym4I0C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26imgtk%3DAFLRE723f8lgzGxyUNUqjpmXqHTpvs9D9ChFGB6OeU8Rj6SuPtEfQCXu2hBfrL8O5pSKDZ7h9CBebGY-z68xHgRjecy27iSQ3haGlEcMLlhxyAvdu-11P8NDdnq5uWqNX6SmwNkrFOxt"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/341e0cde-a431-4165-81f4-7d5d89f00e6b.gif">]]></description>
             <link>https://thegrid.ai/iamhybrid/4b58e217-2aa6-48eb-9400-b2178a4cf875/index.html</link>
             <guid isPermaLink="false">4b58e217-2aa6-48eb-9400-b2178a4cf875</guid>
-            <pubDate>Tue, 19 Apr 2016 07:07:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c22183f1-07fd-4562-a552-059ace0eaf3d.gif">]]></description>
-            <link>https://thegrid.ai/iamhybrid/a9ee1424-2bc5-4753-a841-52988d3fcbdf/index.html</link>
-            <guid isPermaLink="false">a9ee1424-2bc5-4753-a841-52988d3fcbdf</guid>
             <pubDate>Tue, 19 Apr 2016 07:07:56 GMT</pubDate>
         </item>
     </channel>
