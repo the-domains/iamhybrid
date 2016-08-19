@@ -4,8 +4,15 @@
         <description><![CDATA[iamhybrid]]></description>
         <link>https://thegrid.ai/iamhybrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 17:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 17:48:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iamhybrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cycling '74 Max 7]]></title>
+            <description><![CDATA[<article><h1>Cycling '74 Max 7</h1><p>A full kit of creative tools for sound, graphics, music and interactivity in a visual environment.</p><img src="https://cycling74.com/wp-content/themes/cycling74-2016/marketing/images/c74artistgrid.jpg"></article>]]></description>
+            <link>https://cycling74.com/</link>
+            <guid isPermaLink="false">d7a1e88d-bf5f-46da-9e02-931632fb4951</guid>
+            <pubDate>Fri, 19 Aug 2016 17:47:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[C74: Demystifying Filters Video Tutorial]]></title>
             <description><![CDATA[<article><h1>C74: Demystifying Filters Video Tutorial</h1><p>In previous tutorials, I provided a tour of filtering tools for Max users, and also discussed using Javascript for buffer access. In this 28-minute video, Ill build on those skills and build some filters from scratch in MSP and Gen, and examine their characteristics. Download the Package used in this tutorial.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/64778716c4b969c8edbf271b242b0a05/noop.png?input=https%3A%2F%2Fcycling74.com%2Fwp-content%2Fthemes%2Fcycling74-2016%2Fimg%2Fc74-icon-default.png"></article>]]></description>
