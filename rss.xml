@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[iamhybrid]]></title>
+        <description><![CDATA[iamhybrid]]></description>
+        <link>https://thegrid.ai/iamhybrid/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 17:47:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iamhybrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[C74: Demystifying Filters Video Tutorial]]></title>
+            <description><![CDATA[<article><h1>C74: Demystifying Filters Video Tutorial</h1><p>In previous tutorials, I provided a tour of filtering tools for Max users, and also discussed using Javascript for buffer access. In this 28-minute video, Ill build on those skills and build some filters from scratch in MSP and Gen, and examine their characteristics. Download the Package used in this tutorial.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/64778716c4b969c8edbf271b242b0a05/noop.png?input=https%3A%2F%2Fcycling74.com%2Fwp-content%2Fthemes%2Fcycling74-2016%2Fimg%2Fc74-icon-default.png"></article>]]></description>
+            <link>https://cycling74.com/2016/08/16/demystifying-filters-video-tutorial/#.V7dB1MTuKnN</link>
+            <guid isPermaLink="false">c043c759-2dc3-43fb-a582-660006bc7034</guid>
+            <pubDate>Fri, 19 Aug 2016 17:47:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A1. Anything else is plan b. - iamhybrid.com]]></title>
+            <description><![CDATA[<article><h1>A1. Anything else is plan b. - iamhybrid.com</h1><p>iamhybrid.com is the digital portfolio and playground of freelance creative director Michael Ploj. I am a 37 years old passionate creative technologist and...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d51e2a0cadd6324cf39b0dda79f3b711/croprotate.jpg?cropheight=1131&cropwidth=735&degrees=0&input=http%3A%2F%2Fpayload463.cargocollective.com%2F1%2F8%2F262298%2F11569205%2FPrint_1_1_Frau_800.jpg&x=35&y=0"></article>]]></description>
+            <link>http://cargocollective.com/iamhybrid/A1-Anything-else-is-plan-b</link>
+            <guid isPermaLink="false">14a22db3-cfe9-4b4d-a9b5-7a9c2ee15d3c</guid>
+            <pubDate>Fri, 19 Aug 2016 17:44:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
